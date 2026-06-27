@@ -1,0 +1,1 @@
+SUMMARY_PROMPT = """Summarize the deterministic query result for the user in a short, operational style."""

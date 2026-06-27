@@ -1,0 +1,1 @@
+DELAY_SUMMARY_PROMPT = """Summarize delay incidents briefly. Do not calculate or infer business rules."""

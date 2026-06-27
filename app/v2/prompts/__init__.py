@@ -1,0 +1,1 @@
+"""Prompt templates for optional LLM fallback and summarization."""

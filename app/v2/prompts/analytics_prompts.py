@@ -1,0 +1,1 @@
+ANALYTICS_PROMPT = """Explain the provided analytics result in plain language. Do not recompute metrics."""
