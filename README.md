@@ -1,4 +1,4 @@
-# 🚚 Bluedart AI Chatbot v2 — INGEN Technology Pvt Ltd
+# 🚚 Bluedart AI Chatbot — INGEN Technology Pvt Ltd
 **Made by @rpit Kumar | Clean Architecture | GPT-4o-mini | secutrakdb**
 
 ## Quick Start
